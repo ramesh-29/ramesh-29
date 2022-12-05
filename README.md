@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ramesh-vishnoi-1118bb202/" target="blank"><img align="center" src="./img/ic_linkedin.svg" alt="ramesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ramesh-vishnoi-1118bb202/" target="blank"><img align="center" src="./ic_linkedin.svg" alt="ramesh" height="30" width="40" /></a>
 </p>
 <h1></h2>
 <br>
