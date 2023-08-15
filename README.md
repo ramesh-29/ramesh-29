@@ -11,5 +11,5 @@
 </p>
 <h1></h2>
 <br>
-<p align="center">&nbsp;<img width='49%' src="https://github-readme-stats.vercel.app/api?username=ramesh-29&show_icons=true&locale=en&theme=algolia" alt="ramesh" />
+<p align="center">&nbsp;
 <img width='49%'  src="https://github-readme-streak-stats.herokuapp.com/?user=ramesh-29&&theme=algolia" alt="ramesh" /></p>
